@@ -6,6 +6,7 @@ pipeline {
             steps {
                 echo "hello from learning of webhook......should be succnmnmness..done"
                 echo "hello "
+                echo "done"
             }
         }
     }
