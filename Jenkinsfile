@@ -5,6 +5,7 @@ pipeline {
         stage('parameterised') {
             steps {
                 echo "hello from learning of webhook"
+                echo "hello"
            
             }
         }
